@@ -1,5 +1,3 @@
-# Hi, I'm Arun Vignesh Nedunchezhian 👋
-
 Data Scientist with expertise in cutting-edge AI and NLP solutions, including Multi-Modal AI Chatbots, Large Language Models and Vector Databases. Proficient in Python, machine learning, data analysis, and cloud technologies (AWS). Experienced in developing AI-driven tools for industry and government projects.
 
 ## 🚀 Skills & Tools
